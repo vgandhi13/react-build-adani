@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.56263678.css",
+    "main.js": "/static/js/main.11bd4dc4.js",
+    "static/media/dotted-world-map.jpg": "/static/media/dotted-world-map.ce10e8f929dbe2a06cbd.jpg",
+    "index.html": "/index.html",
+    "main.56263678.css.map": "/static/css/main.56263678.css.map",
+    "main.11bd4dc4.js.map": "/static/js/main.11bd4dc4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56263678.css",
+    "static/js/main.11bd4dc4.js"
+  ]
+}
